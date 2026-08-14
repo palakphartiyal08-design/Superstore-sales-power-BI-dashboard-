@@ -34,6 +34,8 @@ An interactive Power BI dashboard designed to analyze Superstore sales performan
 ## 📷 Dashboard Preview
 
 The repository includes dashboard screenshots showing the Power BI analysis and visualizations.
+![Superstore Dashboard](Screenshot%202026-08-10%20134502.png)
+![Superstore Forecasting Dashboard](Screenshot%202026-08-14%20160144.png)
 
 ## 📁 Project Files
 
